@@ -1,5 +1,5 @@
 <h1><b>Library Management System</b></h1><br>
-to build this project give command g++ library.cpp on the terminl<br>
+to build this project give command g++ library.cpp on the terminal<br>
 to run give command ./a.out<br><br>
 This is a Problem Solving in C/C++ project by:<br>
 Ishaan Agarwal(9917103019)<br>
